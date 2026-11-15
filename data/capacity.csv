@@ -1,0 +1,15 @@
+Line_ID,Line_Name,Date,Shift_Start,Shift_Hours,Planned_Downtime_Hours,Note,In_Plan_Window
+LQ-01,Liquid Line 1,2026-11-16,07:00,16,0,2 shift,True
+LQ-01,Liquid Line 1,2026-11-17,07:00,16,0,2 shift,True
+LQ-01,Liquid Line 1,2026-11-18,07:00,16,4,Preventive maintenance 4 jam,True
+LQ-01,Liquid Line 1,2026-11-19,07:00,16,0,2 shift,True
+LQ-01,Liquid Line 1,2026-11-20,07:00,16,0,2 shift,True
+LQ-01,Liquid Line 1,2026-11-21,07:00,0,0,Libur,False
+LQ-01,Liquid Line 1,2026-11-22,07:00,0,0,Libur,False
+LQ-01,Liquid Line 1,2026-11-23,07:00,16,0,2 shift,False
+LQ-01,Liquid Line 1,2026-11-24,07:00,16,0,2 shift,False
+LQ-01,Liquid Line 1,2026-11-25,07:00,16,0,2 shift,False
+LQ-01,Liquid Line 1,2026-11-26,07:00,16,0,2 shift,False
+LQ-01,Liquid Line 1,2026-11-27,07:00,16,0,2 shift,False
+LQ-01,Liquid Line 1,2026-11-28,07:00,0,0,Libur,False
+LQ-01,Liquid Line 1,2026-11-29,07:00,0,0,Libur,False

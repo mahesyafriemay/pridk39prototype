@@ -1,0 +1,5 @@
+Supplier_ID,Supplier_Name,Supply_Type,Lead_Time_Days,OTIF_Rate
+SUP-01,PT Bahan Kimia Nusantara (dummy),Bulk / bahan baku,14,0.95
+SUP-02,PT Kemasan Tube Prima (dummy),Tube & tutup,21,0.85
+SUP-03,PT Botol Plastik Jaya (dummy),Botol,21,0.8
+SUP-04,PT Karton Cetak Mandiri (dummy),Karton,10,0.97

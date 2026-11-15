@@ -1,0 +1,14 @@
+Material_ID,Material_Name,UoM,Stock_Available,Incoming_Qty,Supplier_ETA,Supplier_ID,Supplier_Confirmed
+M-BULK-BB,Bulk BB Cream,L,3800,1500,2026-11-13,SUP-01,Ya
+M-BULK-SG,Bulk Sunscreen Gel,L,2200,1200,2026-11-12,SUP-01,Belum
+M-BULK-SM,Bulk Sunscreen Milk,L,900,0,,SUP-01,Ya
+M-BULK-SS,Bulk Sunscreen Serum,L,400,0,,SUP-01,Ya
+M-BULK-TS,Bulk Tinted Sunscreen,L,1000,0,,SUP-01,Ya
+M-TUBE-20,Tube & tutup 20 ml,set,79000,30000,2026-11-23,SUP-02,Belum
+M-TUBE-30,Tube & tutup 30 ml,set,22000,0,,SUP-02,Ya
+M-BTL-40,Botol & tutup 40 ml,set,30000,40000,2026-11-14,SUP-03,Ya
+M-BTL-60,Botol & tutup 60 ml,set,15000,0,,SUP-03,Ya
+M-BTL-30,Botol pump 30 ml,set,12000,30000,2026-11-20,SUP-03,Belum
+M-BTL-15,Botol travel 15 ml,set,8000,0,,SUP-03,Ya
+M-CTN-S,Karton satuan kecil,pcs,150000,50000,2026-11-12,SUP-04,Ya
+M-CTN-M,Karton satuan sedang,pcs,90000,0,,SUP-04,Ya

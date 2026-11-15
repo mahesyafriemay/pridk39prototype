@@ -1,0 +1,13 @@
+SKU_ID,Nama_Produk,Brand,Kategori,Stream,Lifecycle,Launch_Date,Size_ml,Batch_Size,Production_LT,QC_LT,Distribution_LT,Analog_SKU,Analog_Ratio,COGS,Selling_Price,Margin_Pct
+BB-001,BB Cream Light 20 ml,Wardah,BB Cream,Liquid,Matang,2023-03-06,20,5000,12,5,4,,,22000,38000,0.421
+BB-002,BB Cream Natural 20 ml,Wardah,BB Cream,Liquid,Matang,2023-03-06,20,5000,12,5,4,,,22000,38000,0.421
+BB-003,BB Cream Medium 20 ml,Wardah,BB Cream,Liquid,Growing,2025-11-03,20,5000,12,5,4,,,22000,38000,0.421
+BB-004,BB Cream Tan 20 ml,Wardah,BB Cream,Liquid,Matang,2023-03-06,20,2000,14,5,4,,,22000,38000,0.421
+BB-005,BB Cream Light 30 ml (varian baru),Wardah,BB Cream,Liquid,Baru,2026-09-28,30,3000,14,6,4,BB-001,0.28,31000,52000,0.404
+BB-006,BB Cream Deep 20 ml (varian baru),Wardah,BB Cream,Liquid,Baru,2026-10-05,20,1000,14,6,4,BB-004,0.4,22000,38000,0.421
+SS-001,Sunscreen Gel SPF30 40 ml,Wardah,Sunscreen,Liquid,Matang,2022-08-01,40,10000,10,6,4,,,18000,32000,0.438
+SS-002,Sunscreen Gel SPF50 40 ml,Wardah,Sunscreen,Liquid,Growing,2025-09-01,40,10000,10,6,4,,,19000,34000,0.441
+SS-003,Sunscreen Serum SPF50 30 ml,Wardah,Sunscreen,Liquid,Growing,2025-12-01,30,5000,12,6,4,,,24000,42000,0.429
+SS-004,Sunscreen Milk SPF35 60 ml,Wardah,Sunscreen,Liquid,Matang,2022-08-01,60,3000,12,6,4,,,23000,40000,0.425
+SS-005,Tinted Sunscreen SPF50 30 ml (baru),Wardah,Sunscreen,Liquid,Baru,2026-09-21,30,4000,14,7,4,SS-002,0.5,25000,44000,0.432
+SS-006,Sunscreen Gel SPF30 15 ml Travel (baru),Wardah,Sunscreen,Liquid,Baru,2026-10-12,15,2000,12,6,4,SS-001,0.08,11000,20000,0.45
